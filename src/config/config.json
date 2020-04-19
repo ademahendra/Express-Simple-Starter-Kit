@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "learning",
+    "password": "aPassword",
+    "database": "learn_express",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "learning",
+    "password": "aPassword",
+    "database": "learn_express",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "learning",
+    "password": "aPassword",
+    "database": "learn_express",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
